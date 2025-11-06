@@ -1,8 +1,8 @@
 - [x] Upload Project to class spreadsheets DONE
 - [x] Join KSU-IS DONE
-- [ x] Create repository in KSU-IS DONE
+- [x] Create repository in KSU-IS DONE
 - [x] Create Read.me DONE
 - [] Upload code from 
 - [] Clone files to Github Desktop and upload them to Visual Studio DONE
 - [] Run the code, locate problems under 'Problems' tab DONE
-- [X Analyze code in Visual Studio, leave comments for each problem DONE
+- [] Analyze code in Visual Studio, leave comments for each problem DONE
