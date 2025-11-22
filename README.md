@@ -7,3 +7,7 @@ Initialize project structure with main.py, gui.py, and player.py to prepare foun
 
 Edit:
 Implement basic Tkinter application window to establish core GUI framework for PyPlayer interface
+
+Edit:
+Add file browser dialog to allow users to select local audio files for playback
+
