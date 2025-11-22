@@ -5,8 +5,4 @@
 - [x] Upload code from Github
 - [x] Clone files to Github Desktop and upload them to Visual Studio DONE
 - [x] Run the code, locate problems under 'Problems' tab DONE
-- [x] Analyze code in Visual Studio, leave comments for each problem DONE
-- [x] Create base application window
-- [x] Add play function → [x] Add play function
-- [x] Add error message when unsupported file selected
-- [x] Edit readme for sprint 2
+
