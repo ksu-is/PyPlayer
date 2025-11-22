@@ -5,3 +5,5 @@ This is my first edit in the ReadMe.md for Sprint 1
 Edit:
 Initialize project structure with main.py, gui.py, and player.py to prepare foundation for PyPlayer development
 
+Edit:
+Implement basic Tkinter application window to establish core GUI framework for PyPlayer interface
