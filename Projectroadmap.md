@@ -9,4 +9,4 @@
 - [x] Create base application window
 - [x] Add play function → [x] Add play function
 - [x] Add error message when unsupported file selected
-
+- [x] Edit readme for sprint 2
