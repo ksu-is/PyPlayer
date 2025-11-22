@@ -16,3 +16,6 @@ Integrate pygame.mixer and create initial audio playback function to enable song
 
 Edit:
 Display selected song title in GUI label so users can see which file is currently loaded
+
+Edit:
+Edited play and stop buttons to GUI and connect them to playback functions to support user interaction
