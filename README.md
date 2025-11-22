@@ -11,8 +11,10 @@ Implement basic Tkinter application window to establish core GUI framework for P
 Edit:
 Add file browser dialog to allow users to select local audio files for playback
 
+#test
 Edit:
 Integrate pygame.mixer and create initial audio playback function to enable song playing capability
+
 
 Edit:
 Display selected song title in GUI label so users can see which file is currently loaded
