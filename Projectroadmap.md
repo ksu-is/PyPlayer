@@ -8,4 +8,5 @@
 - [x] Analyze code in Visual Studio, leave comments for each problem DONE
 - [x] Create base application window
 - [x] Add play function → [x] Add play function
+- [x] Add error message when unsupported file selected
 
