@@ -10,3 +10,4 @@
 - [x] Add play function → [x] Add play function
 - [x] Add error message when unsupported file selected
 - [x] Edit readme for sprint 2
+- [x] Create and add Powerpoint to github [PyPlayer.pptx](https://github.com/user-attachments/files/23844265/PyPlayer.pptx)
